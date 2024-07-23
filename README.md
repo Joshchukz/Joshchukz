@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Joshchukz
-- 👀 I’m interested in Android Development 
-- 🌱 I’m currently learning Kotlin and Android Studio
-- 💞️ I’m looking to collaborate on Android Development 
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning HTML AND CSS
 - 📫 How to reach me: chukwuemekajoshua32@gmail.com or Whatsapp 09151995031
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: LoL...I must learn it.
