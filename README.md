@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joshchukz
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning HTML AND CSS
+- 🌱 I’m currently taking a course on fullstack web development
 - 📫 How to reach me: chukwuemekajoshua32@gmail.com or Whatsapp 09151995031
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: LoL...I must learn it.
